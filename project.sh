@@ -179,7 +179,7 @@ remote_control
 
 log_message "project script finished"
 
-
+echo "hi"
 # michal koren
 # student code: s10
 # unit: TMagen773632
